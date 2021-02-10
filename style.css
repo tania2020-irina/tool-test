@@ -51,4 +51,11 @@ h1{
         text-decoration: none;
         color: firebrick;
         background-color: violet;
-    }
+     }
+.alert {
+background-color: blueviolet;
+color: aquamarine;   
+width: 200px;
+height: 40px;
+
+}
